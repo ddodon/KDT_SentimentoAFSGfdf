@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "389b52a0bf90577f63e90da1628b1d3920490da0beca2c61f40a06f8c95ba954"
+build_start_time: [1665040362, 913671016]
+build_end_time: [1665040362, 949174880]
+inputs:
+  "/Users/isaebom/AndroidStudioProjects/KDT/KDT_Sentimento/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1665040346, 3975391]
+  "/Users/isaebom/AndroidStudioProjects/KDT/KDT_Sentimento/macos/Runner/AppDelegate.swift": !private [1648486804, 0]
+  "/Users/isaebom/AndroidStudioProjects/KDT/KDT_Sentimento/macos/Runner/MainFlutterWindow.swift": !private [1648486804, 0]
